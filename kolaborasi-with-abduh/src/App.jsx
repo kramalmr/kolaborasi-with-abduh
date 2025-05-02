@@ -3,7 +3,7 @@ export default function App() {
     <div>
       <h1 className="text-3xl font-bold text-center my-10">Ini Project Akram</h1>
       <img src="/akram.jpeg" alt="" className="w-1/2 mx-auto"/>
-      <h1 className="text-3xl font-bold text-center my-10">Ini kolaborasi Akram</h1>
+      <h1 className="text-3xl font-bold text-center my-10">Ini kolaborasi Abduh</h1>
       <img src="/fl.jpg" alt="" className="w-1/2 mx-auto"/>
     </div>
   );
